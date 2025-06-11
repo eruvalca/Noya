@@ -14,3 +14,15 @@ h4.display-4 {
 #noya-body {
     background-color: #b65332;
 }
+
+.noya-link {
+    color: #eed9b3;
+    text-decoration: none;
+}
+
+.noya-link:hover,
+.noya-link:active,
+.noya-link:focus {
+    color: #d4c294;
+    text-decoration: none;
+}
