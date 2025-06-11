@@ -1,0 +1,16 @@
+html,
+body {
+    font-family: "Nunito Sans", sans-serif;
+    color: #eed9b3;
+}
+
+h1.display-1,
+h2.display-2,
+h3.display-3,
+h4.display-4 {
+    font-weight: 900 !important;
+}
+
+#noya-body {
+    background-color: #b65332;
+}
